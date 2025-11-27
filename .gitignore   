@@ -1,0 +1,18 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac OS system file
+.DS_Store
+
+# Large data files (Optional, if you don't want to upload CSVs)
+# *.csv

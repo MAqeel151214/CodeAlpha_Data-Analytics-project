@@ -1,0 +1,24 @@
+
+# 📈 Module 3: Data Visualization
+
+## 🎯 Objective
+To translate statistical numbers into visual stories that provide actionable business insights.
+
+## 🖼️ Visualizations Included
+
+### 1. Price Density by Rating (Violin Plot)
+*   **Goal:** To see the distribution of prices within each star rating.
+*   **Insight:** The shape of the pricing distribution is identical across all ratings, confirming that pricing is random regarding quality.
+
+### 2. Title Length vs. Price (Hexbin Joint Plot)
+*   **Goal:** To test the hypothesis that "Complex titles cost more."
+*   **Insight:** The density is concentrated in the center; no linear trend exists between title length and price.
+
+### 3. Top Keywords (Bar Chart)
+*   **Goal:** Text mining analysis of the most common words in book titles.
+*   **Insight:** Helps the marketing team understand the current inventory mix (e.g., prevalence of specific genres).
+
+## 🧰 Libraries Used
+*   **Seaborn:** For statistical styling (Violin, Joint plots).
+*   **Matplotlib:** For base plotting and figure sizing.
+*   **Collections:** For word frequency counting.
