@@ -1,4 +1,5 @@
 
+```markdown
 # 📈 Module 3: Data Visualization
 
 ## 🎯 Objective
@@ -22,3 +23,4 @@ To translate statistical numbers into visual stories that provide actionable bus
 *   **Seaborn:** For statistical styling (Violin, Joint plots).
 *   **Matplotlib:** For base plotting and figure sizing.
 *   **Collections:** For word frequency counting.
+```
