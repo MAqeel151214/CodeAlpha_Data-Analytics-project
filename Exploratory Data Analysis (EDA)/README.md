@@ -1,3 +1,4 @@
+```markdown
 # 🔍 Module 2: Exploratory Data Analysis (EDA)
 
 ## 🎯 Objective
@@ -19,3 +20,4 @@ To "interrogate" the raw data, identify quality issues, and uncover initial patt
 The EDA script creates specialized CSVs for different business stakeholders:
 *   `dataset_1_vip_catalog.csv`: High-margin items for the Sales team.
 *   `dataset_2_risk_audit.csv`: Low-rated but expensive items for Quality Control.
+```
