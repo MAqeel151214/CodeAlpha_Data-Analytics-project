@@ -1,3 +1,4 @@
+```markdown
 # 🕸️ Module 1: Web Scraping
 
 ## 🎯 Objective
@@ -25,3 +26,4 @@ The script generates `books_ecommerce_data.csv` containing:
 # Example of extraction logic
 price_text = book.find('p', class_='price_color').text
 price = float(re.sub(r'[^\d.]', '', price_text))
+```
